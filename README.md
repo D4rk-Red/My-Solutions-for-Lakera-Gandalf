@@ -1,5 +1,3 @@
-# Gandalf LLM
-
 These are my inputs given to the LLM [Gandalf](https://gandalf.lakera.ai/).
 
 ## Table of Contents
